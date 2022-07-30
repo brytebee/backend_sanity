@@ -7,7 +7,6 @@
 
 # Dependency directories
 node_modules
-.prettierrc
 
 # Compiled sanity studio
 /dist
